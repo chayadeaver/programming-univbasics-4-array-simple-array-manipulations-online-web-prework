@@ -31,3 +31,6 @@ end
 def using_delete(instructors, no_offense_steven)
   instructors.delete(no_offense_steven)
 end
+def using_delete_at
+  
+end
