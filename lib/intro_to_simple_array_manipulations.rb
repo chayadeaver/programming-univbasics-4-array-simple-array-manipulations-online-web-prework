@@ -7,6 +7,6 @@ end
 def using_pop(continents)
   continents.pop
 end
-def pops_with_args
+def pops_with_args(dog_breeds, small_dogs)
   
 end
